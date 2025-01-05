@@ -1,0 +1,1 @@
+# auto-image-info-logger
